@@ -1,12 +1,15 @@
-﻿<div align="center">
+<div align="center">
 
 # European Energy Market Analysis
 
-### Evidence-based project documentation generated from the repository contents
+### A portfolio-ready repository for European Energy Market Analysis, documented from the files and technologies present in the project.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Main%20Portfolio-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/energy-utilities-analytics-portfolio) [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/gawandeshil03-ops/european-energy-market-analysis-portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shil%20Gawande-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shilgawande2004) [![GitHub](https://img.shields.io/badge/GitHub-gawandeshil03--ops-181717?style=for-the-badge&logo=github)](https://github.com/gawandeshil03-ops)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Energy%20%20Utilities%20analytics-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/energy-utilities-analytics-portfolio)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/european-energy-market-analysis-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shilgawande2004)
+[![GitHub](https://img.shields.io/badge/GitHub-gawandeshil03-ops-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops)
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Detected-555555?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-Detected-555555?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-Detected-555555?style=flat-square)
 
 </div>
 
@@ -14,54 +17,80 @@
 
 ## Project Overview
 
-This repository presents European Energy Market Analysis using evidence found in the project files, with detected technologies including Jupyter Notebook, Power BI, Excel.
+A portfolio-ready repository for European Energy Market Analysis, documented from the files and technologies present in the project.
 
-## Architecture / Workflow
+## Problem / Objective
+
+**Application:** Energy, utility, market, or sustainability analysis.
+
+This README is generated from the actual project folder. Technologies, components, inputs, outputs, and architecture claims are included only when supported by repository evidence.
+
+## Project Working Component Map
 
 ```mermaid
-flowchart LR
-    A[Project Files] --> B[Processing / Analysis]
-    B --> C[Jupyter Notebook]
-    B --> D[Power BI]
-    B --> E[Excel]
+flowchart TD
+    P["Project Working Components"]
+    P --> G1["Inputs: Excel workbooks"]
+    P --> G2["Analytics: Jupyter notebooks"]
+    P --> G3["Outputs: Power BI report"]
 ```
 
-## Key Features
+The repository verifies these working components. A sequence is intentionally not invented where the project documentation does not prove one.
 
-- Includes Jupyter notebooks for reproducible analysis or experimentation.
-- Includes a Power BI report/dashboard asset.
-- Includes Excel workbooks used as inputs, analysis assets, or outputs.
+## Verified Working Components
+
+| Layer / Area | Verified Evidence |
+|--------------|-------------------|
+| Inputs | Excel workbooks |
+| Analytics / Models | Jupyter notebooks |
+| Outputs / Interface | Power BI report |
 
 ## Technology Stack
 
-| Technology | Evidence / Purpose |
-|---|---|
-| Jupyter Notebook | Detected from repository files |
-| Power BI | Detected from repository files |
-| Excel | Detected from repository files |
+| Technology | Evidence |
+|------------|----------|
+| Jupyter Notebook | Verified from project files |
+| Power BI | Verified from project files |
+| Excel | Verified from project files |
 
-## Repository Structure
+## Core Repository Files
 
-```text
-european-energy-market-analysis-portfolio/
-|-- European-Energy-Market-Analysis/
-```
+| File | Type |
+|------|------|
+| `European-Energy-Market-Analysis\Excel_Regression_Analysis.xlsx` | XLSX |
+| `European-Energy-Market-Analysis\Jupyter_Notebook.ipynb` | IPYNB |
+| `European-Energy-Market-Analysis\PowerBI_Dashboard.pbix` | PBIX |
 
-## Security / Data Safety
+## Project Structure
 
-Before publication, the automation checks for common credential files, obvious private-key/token patterns, nested Git metadata, and oversized files. Original local project folders are not modified.
+`	ext
+p-1039696365/
+  - docs/
+  - European-Energy-Market-Analysis/
+`
 
-## Suggested Enhancements
+## How the Project Is Organized
 
-- Add further project-specific documentation as the implementation evolves.
-- Add tests or validation assets where appropriate.
-- Add screenshots or output examples when they can be verified from the project.
+The architecture/workflow visual above is the primary working view of this project. When an existing architecture or workflow image is present, that project asset is used directly. Otherwise, the automation derives a Mermaid visual only from verified project documentation and artifacts.
 
-## Portfolio Contact
+## Methodology & Documentation Policy
 
-**Shil Gawande**  
-[LinkedIn](https://www.linkedin.com/in/shilgawande2004) | [GitHub](https://github.com/gawandeshil03-ops) | [gawandeshil9@gmail.com](mailto:gawandeshil9@gmail.com) | +91 9172937014
+- Local project files are the source of truth.
+- Existing project README content is preserved under `docs/ORIGINAL_README.md` in the safe publication copy when available.
+- Technology badges are created only from detected project evidence.
+- Unsupported databases, cloud services, APIs, models, metrics, deployment claims, users, clients, revenue, savings, or business outcomes are omitted.
+- When workflow order cannot be proven, the visual is explicitly shown as a working component map rather than a fabricated sequence.
+
+## Explore
+
+Use the repository files together with the architecture/workflow visual, technology table, and project structure above to understand the implementation.
+
+## Contact
+
+- GitHub: https://github.com/gawandeshil03-ops
+- LinkedIn: https://www.linkedin.com/in/shilgawande2004
+- Email: gawandeshil9@gmail.com
 
 ---
 
-[Return to Main Portfolio](https://github.com/gawandeshil03-ops/energy-utilities-analytics-portfolio)
+[<- Return to Energy  Utilities analytics Portfolio](https://github.com/gawandeshil03-ops/energy-utilities-analytics-portfolio)
